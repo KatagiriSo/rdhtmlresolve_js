@@ -1,0 +1,29 @@
+{
+  "name": "rdhtmlresolve_js",
+  "version": "0.0.1",
+  "description": " A javascript that recursively embeds HTML parts in an HTML file.",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatagiriSo/rdhtmlresolve_js.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "html"
+  ],
+  "author": "KatagiriSo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KatagiriSo/rdhtmlresolve_js/issues"
+  },
+  "homepage": "https://github.com/KatagiriSo/rdhtmlresolve_js#readme",
+  "dependencies": {
+    "@types/node": "^13.13.1",
+    "typescript": "^3.8.3"
+  }
+}
