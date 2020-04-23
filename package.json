@@ -4,8 +4,8 @@
   "description": " A javascript that recursively embeds HTML parts in an HTML file.",
   "main": "index.js",
   "scripts": {
-    "build":"tsc",
-    "start":"./dist/hello.js",
+    "build": "tsc",
+    "start": "./dist/hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/KatagiriSo/rdhtmlresolve_js#readme",
   "dependencies": {
+    "@types/argv": "0.0.4",
     "@types/node": "^13.13.1",
+    "argv": "0.0.2",
     "typescript": "^3.8.3"
   }
 }
